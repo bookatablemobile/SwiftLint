@@ -44,10 +44,10 @@ Carthage/Build
 
 # SwiftLint
 
-SwiftLint.pkg
-SwiftLintFramework.framework.zip
+#SwiftLint.pkg
+#SwiftLintFramework.framework.zip
 benchmark_*
-portable_swiftlint.zip
+#portable_swiftlint.zip
 osscheck/
 
 # SPM
